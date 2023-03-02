@@ -1,0 +1,1 @@
+# JavaScript-Mini-Project-Student-Grade-Calculator![screencapture-file-D-full-stack-developer-Task-T14-index-html-2023-03-02-13_37_23](https://user-images.githubusercontent.com/121854064/222368682-191a91fe-17ea-4e04-a5e9-89b9d6cd2ece.png)
